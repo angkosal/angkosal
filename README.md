@@ -49,7 +49,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [Translation Manager for Programmer](https://www.youtube.com/watch?v=XrPT_1zrHKk)
 - [Web Scraping Using Python - Pulling And Parse HTML Data with BeautifulSoup [Khmer]](https://www.youtube.com/watch?v=ZzhUn4pkWbg)
 - [Laravel User Login Without Using Password - Laravel Passwordless Login [Khmer]](https://www.youtube.com/watch?v=DzMYaHlei_A)
