@@ -49,6 +49,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Translation Manager for Programmer](https://www.youtube.com/watch?v=XrPT_1zrHKk)
+- [Web Scraping Using Python - Pulling And Parse HTML Data with BeautifulSoup [Khmer]](https://www.youtube.com/watch?v=ZzhUn4pkWbg)
+- [Laravel User Login Without Using Password - Laravel Passwordless Login [Khmer]](https://www.youtube.com/watch?v=DzMYaHlei_A)
+- [Create Note App by Using Vue.js 3](https://www.youtube.com/watch?v=LRs2vSCyzxw)
+- [Web Automation in Javascript Using Selenuim Webdriver [Khmer]](https://www.youtube.com/watch?v=wnYvEsTOc3o)
 <!-- YOUTUBE:END -->
 
 ---
