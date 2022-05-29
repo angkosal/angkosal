@@ -1,4 +1,4 @@
-### Hi there, I'm Kosal [Khmernkor][website] 👋
+### Hi there, I'm Kosal [Khmernokor][website] 👋
 
 ## I'm a Husband, Father, Developer!!
 
@@ -72,7 +72,7 @@
 
 ➡️ [more videos...](https://youtube.com/angkosal)
 
-[website]: https://khmerokor.com
+[website]: https://www.khmernokor.com
 [twitter]: https://twitter.com/orngsorl
 [youtube]: https://youtube.com/angkosal
 [instagram]: https://instagram.com/ang.kosal
