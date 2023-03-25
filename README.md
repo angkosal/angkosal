@@ -6,6 +6,10 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Listening music and Football
 
+<p align="center">
+  <img src="images/nightlife.gif" alt="Kosal's Nightlight" />
+</p>
+
 ### Connect with me:
 
 [<img align="left" alt="khmernkor.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -63,6 +67,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Create POS System Using Laravel - Notify user if product out of stock](https://www.youtube.com/watch?v=WWk_oencGQo)
 - [Translation Manager for Programmer](https://www.youtube.com/watch?v=XrPT_1zrHKk)
 - [Web Scraping Using Python - Pulling And Parse HTML Data with BeautifulSoup [Khmer]](https://www.youtube.com/watch?v=ZzhUn4pkWbg)
