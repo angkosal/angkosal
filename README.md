@@ -67,11 +67,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Learning Flutter - Customer list &lpar;no talking&rpar;](https://www.youtube.com/watch?v=HsoIh8F1XDc)
 - [Learning Flutter - Create Laravel POS App  &lpar;no talking&rpar;](https://www.youtube.com/watch?v=0FXT7z-QlZU)
 - [Create POS System Using Laravel - Notify user if product out of stock](https://www.youtube.com/watch?v=WWk_oencGQo)
 - [Translation Manager for Programmer](https://www.youtube.com/watch?v=XrPT_1zrHKk)
 - [Web Scraping Using Python - Pulling And Parse HTML Data with BeautifulSoup [Khmer]](https://www.youtube.com/watch?v=ZzhUn4pkWbg)
-- [Laravel User Login Without Using Password - Laravel Passwordless Login [Khmer]](https://www.youtube.com/watch?v=DzMYaHlei_A)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/angkosal)
