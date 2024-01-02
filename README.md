@@ -67,11 +67,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [KhmernokorPOS - Sample sale with Khmernokor POS System](https://www.youtube.com/watch?v=qqUSv7ab3dk)
 - [Learn Flutter - Add QRCode Scanner for POS System &lpar;no talking&rpar;](https://www.youtube.com/watch?v=yhqZSiBlFSQ)
 - [Learning Flutter - Customer list &lpar;no talking&rpar;](https://www.youtube.com/watch?v=HsoIh8F1XDc)
 - [Learning Flutter - Create Laravel POS App  &lpar;no talking&rpar;](https://www.youtube.com/watch?v=0FXT7z-QlZU)
 - [Create POS System Using Laravel - Notify user if product out of stock](https://www.youtube.com/watch?v=WWk_oencGQo)
-- [Translation Manager for Programmer](https://www.youtube.com/watch?v=XrPT_1zrHKk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/angkosal)
