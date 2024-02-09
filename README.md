@@ -3,7 +3,7 @@
 ## I'm a Husband, Father, Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Listening music and Football
 
 <p align="center">
