@@ -67,11 +67,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [POS System](https://www.youtube.com/watch?v=Vo4Xn5o1bzg)
 - [POS SYSTEM For Mobile #pos](https://www.youtube.com/watch?v=C7bXzsRf0d8)
 - [App Development - KhmernokorPOS Single Store](https://www.youtube.com/watch?v=zXsCJv_msA8)
 - [KhmernokorPOS - Sample sale with Khmernokor POS System](https://www.youtube.com/watch?v=qqUSv7ab3dk)
 - [Learn Flutter - Add QRCode Scanner for POS System &lpar;no talking&rpar;](https://www.youtube.com/watch?v=yhqZSiBlFSQ)
-- [Learning Flutter - Customer list &lpar;no talking&rpar;](https://www.youtube.com/watch?v=HsoIh8F1XDc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/angkosal)
