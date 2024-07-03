@@ -67,11 +67,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [POS System API Test driven development &lpar;TDD&rpar; - No Talking](https://www.youtube.com/watch?v=VsMaCs8QT6g)
+- [POS System API Test driven development &lpar;TDD&rpar; Part 2 - No Talking](https://www.youtube.com/watch?v=Sm-LPDpoNIc)
+- [POS System API Test driven development &lpar;TDD&rpar; Part 1 - No Talking](https://www.youtube.com/watch?v=VsMaCs8QT6g)
 - [POS Sale for Mobile](https://www.youtube.com/watch?v=Z1xAJMlZNAg)
 - [POS System](https://www.youtube.com/watch?v=Vo4Xn5o1bzg)
 - [POS SYSTEM For Mobile #pos](https://www.youtube.com/watch?v=C7bXzsRf0d8)
-- [App Development - KhmernokorPOS Single Store](https://www.youtube.com/watch?v=zXsCJv_msA8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/angkosal)
