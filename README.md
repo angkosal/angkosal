@@ -67,11 +67,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Khmernokor POS for Restaurant](https://www.youtube.com/watch?v=QjyltLPgRsk)
 - [Currency Test for Khmernokor POS](https://www.youtube.com/watch?v=7nm5zhE3tVg)
 - [KhmernokorPOS: Self-Ordering System for Table &amp; Home | Real-Time Sales Notifications](https://www.youtube.com/watch?v=4RNN7CP8eSw)
 - [Employee Attendance and Payroll Management System](https://www.youtube.com/watch?v=NnKQV2MgrF0)
 - [Khmernokor HR Management System &lpar;HRMS&rpar;](https://www.youtube.com/watch?v=qqawuVfVtY8)
-- [POS System API Test driven development &lpar;TDD&rpar; Part 2 - No Talking](https://www.youtube.com/watch?v=Sm-LPDpoNIc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/angkosal)
