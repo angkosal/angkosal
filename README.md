@@ -60,10 +60,10 @@
 
 <!-- YOUTUBE:START -->
 - [Add Post Audio and Slide for AlertDays](https://www.youtube.com/watch?v=2JzZyN-ygD8)
-- [Khmernokor POS for Restaurant](https://www.youtube.com/watch?v=QjyltLPgRsk)
+- [Khmernokor POS for Restaurant](https://www.youtube.com/shorts/QjyltLPgRsk)
 - [Currency Test for Khmernokor POS](https://www.youtube.com/watch?v=7nm5zhE3tVg)
 - [KhmernokorPOS: Self-Ordering System for Table &amp; Home | Real-Time Sales Notifications](https://www.youtube.com/watch?v=4RNN7CP8eSw)
-- [Employee Attendance and Payroll Management System](https://www.youtube.com/watch?v=NnKQV2MgrF0)
+- [Employee Attendance and Payroll Management System](https://www.youtube.com/shorts/NnKQV2MgrF0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/angkosal)
